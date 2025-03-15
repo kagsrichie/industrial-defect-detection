@@ -2,7 +2,7 @@
 CNN-based system for detecting manufacturing defects in industrial products
 A deep learning solution for automated visual inspection in manufacturing environments using Convolutional Neural Networks (CNNs).
 
-![Defect Detection Sample](images/prediction_samples.png)
+
 
 ## 📋 Overview
 
